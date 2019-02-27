@@ -22,6 +22,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Two Sum.py" />
+        <option value="$PROJECT_DIR$/Add Two Numbers.py" />
       </list>
     </option>
   </component>
@@ -80,12 +81,12 @@
       <updated>1551167333371</updated>
       <workItem from="1551167343348" duration="2045000" />
       <workItem from="1551171257298" duration="797000" />
-      <workItem from="1551254890608" duration="512000" />
+      <workItem from="1551254890608" duration="1625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3354000" />
+    <option name="totallyTimeSpent" value="4467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="356" y="69" width="1392" height="882" extended-state="0" />
@@ -121,6 +122,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Add Two Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
