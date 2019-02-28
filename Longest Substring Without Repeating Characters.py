@@ -3,7 +3,7 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str):
         '''
         利用两个指针和一个set同时维护
-        :param s:
+        :param s: 字符串
         :return:
         '''
         left, right = 0, 0
