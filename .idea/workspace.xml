@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="185320bd-ddca-482d-a64a-68bc2ce75fce" name="Default Changelist" comment="" />
+    <list default="true" id="185320bd-ddca-482d-a64a-68bc2ce75fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Container With Most Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/Container With Most Water.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Container With Most Water.py">
+        <entry file="file://$PROJECT_DIR$/Integer to Roman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -59,12 +62,13 @@
         <option value="$PROJECT_DIR$/Palindrome Number.py" />
         <option value="$PROJECT_DIR$/Regular Expression Matching.py" />
         <option value="$PROJECT_DIR$/Container With Most Water.py" />
+        <option value="$PROJECT_DIR$/Integer to Roman.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="169" />
-    <option name="y" value="79" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="185" />
+    <option name="y" value="51" />
     <option name="width" value="1376" />
     <option name="height" value="872" />
   </component>
@@ -249,22 +253,25 @@
       <workItem from="1551860357616" duration="1502000" />
       <workItem from="1551937806128" duration="2829000" />
       <workItem from="1552180431300" duration="1255000" />
-      <workItem from="1552624180463" duration="4594000" />
+      <workItem from="1552624180463" duration="5201000" />
+      <workItem from="1552794077305" duration="381000" />
+      <workItem from="1552798532419" duration="335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23622000" />
+    <option name="totallyTimeSpent" value="24945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="169" y="79" width="1376" height="872" extended-state="0" />
+    <frame x="-1" y="24" width="1922" height="928" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4019608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2943376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.520156" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.520156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39151517" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,8 +422,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Container With Most Water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integer to Roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
         </state>
       </provider>
     </entry>
