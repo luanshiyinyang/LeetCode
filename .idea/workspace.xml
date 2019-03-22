@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="185320bd-ddca-482d-a64a-68bc2ce75fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Sum Closest.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Sum Closest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Container With Most Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/Container With Most Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integer to Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Integer to Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Common Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Longest Common Prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular Expression Matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular Expression Matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roman to Integer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +33,17 @@
     <SUITE FILE_PATH="coverage/LeetCode$3Sum_Closest.coverage" NAME="3Sum Closest Coverage Results" MODIFIED="1552973220233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Remove Nth Node From End of List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,14 +80,15 @@
         <option value="$PROJECT_DIR$/3Sum.py" />
         <option value="$PROJECT_DIR$/3Sum Closest.py" />
         <option value="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" />
+        <option value="$PROJECT_DIR$/Remove Nth Node From End of List.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="215" />
-    <option name="y" value="54" />
-    <option name="width" value="1368" />
-    <option name="height" value="867" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="283" />
+    <option name="y" value="24" />
+    <option name="width" value="1360" />
+    <option name="height" value="862" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -77,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,22 +276,24 @@
       <workItem from="1552798532419" duration="2814000" />
       <workItem from="1552910240765" duration="658000" />
       <workItem from="1552971241010" duration="2775000" />
-      <workItem from="1553163969152" duration="2109000" />
+      <workItem from="1553163969152" duration="2262000" />
+      <workItem from="1553278198369" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32966000" />
+    <option name="totallyTimeSpent" value="33916000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="24" width="1922" height="928" extended-state="6" />
+    <frame x="283" y="24" width="1360" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3082265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44580153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45333335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45333335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39151517" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,7 +302,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.44848484" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40052015" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34650856" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,6 +488,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove Nth Node From End of List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
