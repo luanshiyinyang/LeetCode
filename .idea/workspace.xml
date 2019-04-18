@@ -29,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generate Parentheses.py">
+        <entry file="file://$PROJECT_DIR$/Minimum Path Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -85,14 +85,15 @@
         <option value="$PROJECT_DIR$/Validate Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/Generate Parentheses.py" />
+        <option value="$PROJECT_DIR$/Minimum Path Sum.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="361" />
+    <option name="x" value="237" />
     <option name="y" value="24" />
-    <option name="width" value="1328" />
-    <option name="height" value="842" />
+    <option name="width" value="1320" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -291,23 +292,24 @@
       <workItem from="1554284097534" duration="2218000" />
       <workItem from="1554538817737" duration="1672000" />
       <workItem from="1554807385303" duration="388000" />
-      <workItem from="1555140128127" duration="2575000" />
+      <workItem from="1555140128127" duration="2661000" />
+      <workItem from="1555575585400" duration="496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53653000" />
+    <option name="totallyTimeSpent" value="54235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="361" y="24" width="1328" height="842" extended-state="0" />
+    <frame x="237" y="24" width="1320" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5117371" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.52125984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49843505" visible="true" weight="0.28822732" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.2581818" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50666666" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.44848484" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015649" side_tool="true" visible="true" weight="0.28822732" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106835" side_tool="true" visible="true" weight="0.32288828" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.38181818" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -583,8 +585,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generate Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="65">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Minimum Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
