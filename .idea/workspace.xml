@@ -29,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Combination Sum.py">
+        <entry file="file://$PROJECT_DIR$/Merge Two Sorted Lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="150">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -89,11 +89,12 @@
         <option value="$PROJECT_DIR$/$Sum.py" />
         <option value="$PROJECT_DIR$/4Sum.py" />
         <option value="$PROJECT_DIR$/Combination Sum.py" />
+        <option value="$PROJECT_DIR$/Merge Two Sorted Lists.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
+    <option name="x" value="342" />
     <option name="y" value="24" />
     <option name="width" value="1312" />
     <option name="height" value="832" />
@@ -298,23 +299,24 @@
       <workItem from="1555140128127" duration="2661000" />
       <workItem from="1555575585400" duration="565000" />
       <workItem from="1555674108620" duration="486000" />
-      <workItem from="1556107327202" duration="593000" />
+      <workItem from="1556107327202" duration="653000" />
+      <workItem from="1556346446701" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55383000" />
+    <option name="totallyTimeSpent" value="55946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="311" y="24" width="1312" height="832" extended-state="0" />
+    <frame x="-1" y="24" width="1922" height="928" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.54041207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3707265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4984152" visible="true" weight="0.2537723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984152" weight="0.2537723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50666666" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,7 +324,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.44848484" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158477" side_tool="true" visible="true" weight="0.2537723" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158477" side_tool="true" visible="true" weight="0.22424242" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946582" weight="0.38181818" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -614,6 +616,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge Two Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
