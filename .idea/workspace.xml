@@ -29,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Merge Two Sorted Lists.py">
+        <entry file="file://$PROJECT_DIR$/Swap Nodes in Pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -90,10 +90,11 @@
         <option value="$PROJECT_DIR$/4Sum.py" />
         <option value="$PROJECT_DIR$/Combination Sum.py" />
         <option value="$PROJECT_DIR$/Merge Two Sorted Lists.py" />
+        <option value="$PROJECT_DIR$/Swap Nodes in Pairs.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="342" />
     <option name="y" value="24" />
     <option name="width" value="1312" />
@@ -107,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +120,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,18 +301,19 @@
       <workItem from="1555575585400" duration="565000" />
       <workItem from="1555674108620" duration="486000" />
       <workItem from="1556107327202" duration="653000" />
-      <workItem from="1556346446701" duration="503000" />
+      <workItem from="1556346446701" duration="568000" />
+      <workItem from="1557377889080" duration="331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55946000" />
+    <option name="totallyTimeSpent" value="56342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1922" height="928" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3707265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37767094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -621,8 +623,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Merge Two Sorted Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Swap Nodes in Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
