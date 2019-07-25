@@ -15,12 +15,9 @@ class Solution:
     
     def dfs(self, root, depth):
         if root.left and root.right:
-            depth = max(self.dfs(root.left, depth), self.dfs(root.right, depth)) + 1
-            return depth
+            return max(self.dfs(root.left, depth), self.dfs(root.right, depth)) + 1
         if root.left:
-            depth = self.dfs(root.left, depth) + 1
-            return depth
+            return self.dfs(root.left, depth) + 1
         if root.right:
-            depth = self.dfs(root.right, depth) + 1
-            return depth
+            return self.dfs(root.right, depth) + 1
         return depth
