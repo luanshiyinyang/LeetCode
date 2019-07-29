@@ -2,7 +2,7 @@ class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
         if not matrix or not matrix[0]:
             return 0
-        print(matrix)
+            
         n = len(matrix[0])
         height = [0 for i in range(n+1)]
         ans = 0
