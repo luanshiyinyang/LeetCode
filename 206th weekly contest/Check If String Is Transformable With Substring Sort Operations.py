@@ -14,6 +14,7 @@ class Solution:
             # 检查是否有更小的字符在前面
             for i in range(index):
                 if use[i] < len(idx[i]) and idx[i][use[i]] < idx[index][use[index]]:
+                    print("hit")
                     return False
             use[index] += 1
         return True
